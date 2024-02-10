@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "kavya",
+      "area": "IT",
+      "email": "kavya@21gmail.com",
+      "section": "AQ"
+    },
+    {
+      "id": 2,
+      "name": "Keerthana",
+      "area": "IT -1",
+      "email": "keerthana@10gmail.com",
+      "section": "BS"
+    },
+    {
+      "id": 3,
+      "name": "Abi",
+      "area": "IT -2",
+      "email": "abi@23gmail.com",
+      "section": "MO"
+    },
+    {
+      "id": 4,
+      "name": "Abarna",
+      "area": "Bio-Tech",
+      "email": "abar@27gmail.com",
+      "section": "SL"
+    },
+    {
+      "id": 5,
+      "name": "priya",
+      "area": "Bio-2",
+      "email": "priya@7gmail.com",
+      "section": "NB"
+    },
+    {
+      "id": 5,
+      "name": "Anu",
+      "area": "Bio-2",
+      "email": "anu@23gmail.com",
+      "section": "DF"
+    },
+    {
+      "id": 6,
+      "name": "Arun",
+      "area": "ECE",
+      "email": "arun@10gmail.com",
+      "section": "TH"
+    },
+    {
+      "id": 7,
+      "name": "Dharshini",
+      "area": "Com",
+      "email": "dharshini@22gmail.com",
+      "section": "MN"
+    },
+    {
+      "name": "Dharshini",
+      "area": "Commerce",
+      "email": "dharshini@22gmail.com",
+      "section": "MN",
+      "id": 8
+    },
+    {
+      "name": "Priya",
+      "area": "IT-2",
+      "email": "Priya@21gmail.com",
+      "section": "SL",
+      "id": 9
+    },
+    {
+      "name": "Lakshmi",
+      "Type": "Bio",
+      "Gender": "Female",
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "name": "Ram",
+      "area": "Cal",
+      "email": "ram@10gmail.com",
+      "section": "AN",
+      "id": 12
+    },
+    {
+      "name": "Ram",
+      "area": "Cal",
+      "email": "ram@10gmail.com",
+      "section": "AN",
+      "id": 13
+    }
+  ]
+}
